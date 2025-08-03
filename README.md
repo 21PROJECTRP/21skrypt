@@ -1,2 +1,2 @@
-# 21skrypt
-skrypt do przeslania
+# 21Przesyłanie
+Przesyłanie rzeczy do bota!
